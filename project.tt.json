@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "taro-code-push-demo",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
